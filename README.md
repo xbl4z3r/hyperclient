@@ -1,7 +1,7 @@
 # HyperClient
 
 
-[<p align="center"><img src="https://img.shields.io/travis/xbl4z3rr/hyperclient.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/XBL4Z3R-69/HyperClient) [<img src="https://img.shields.io/github/downloads/xbl4z3rr/hyperclient/total.svg?style=for-the-badge" alt="downloads">](https://github.com/XBL4Z3R-69/HyperClient/releases) <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28px" alt="stark"></p>
+[<p align="center"><img src="https://img.shields.io/travis/xbl4z3rr/hyperclient.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/xbl4z3rr/hyperclient) [<img src="https://img.shields.io/github/downloads/xbl4z3rr/hyperclient/total.svg?style=for-the-badge" alt="downloads">](https://github.com/xbl4z3rr/hyperclient/releases) <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28px" alt="stark"></p>
 
 
 Modded PVP-Ready client made by the HyperDevs team.
