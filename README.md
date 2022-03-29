@@ -4,9 +4,9 @@
 [<p align="center"><img src="https://img.shields.io/travis/xbl4z3rr/hyperclient.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/xbl4z3rr/hyperclient) [<img src="https://img.shields.io/github/downloads/xbl4z3rr/hyperclient/total.svg?style=for-the-badge" alt="downloads">](https://github.com/xbl4z3rr/hyperclient/releases) <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28px" alt="stark"></p>
 
 
-Modded PVP-Ready client made by the HyperDevs team.
+Modded PVP-Ready client made by the HYPR Studio team.
 
-Public GitHub repositorie for the one and only HyperClient.
+Public GitHub repository for the one and only HyperClient.
 Like the project? Leave a ⭐ star on the repository!
 
 ## Downloads
@@ -36,6 +36,3 @@ Notes:
 > This client doesn't give any kind of unfair advantage over other players, it just gives its users mods that can improve FPS and remove Mouse Delay and more!
 > Some of these mods may not be allowed on some servers and all of them are marked as **Use at your own risk**.
 > We are not responsible if you get banned on any server using this client.
-
-# REMEMBER
-**Do not clone this project and publish it as yours without a license from me.**
