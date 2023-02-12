@@ -1,7 +1,7 @@
 # HyperClient
 
 
-[<p align="center"><img src="https://img.shields.io/travis/xbl4z3rr/hyperclient.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/xbl4z3rr/hyperclient) [<img src="https://img.shields.io/github/downloads/xbl4z3rr/hyperclient/total.svg?style=for-the-badge" alt="downloads">](https://github.com/xbl4z3rr/hyperclient/releases) <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28px" alt="stark"></p>
+[<p align="center"><img src="https://img.shields.io/travis/xbl4z3r/hyperclient.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/xbl4z3rr/hyperclient) [<img src="https://img.shields.io/github/downloads/xbl4z3r/hyperclient/total.svg?style=for-the-badge" alt="downloads">](https://github.com/xbl4z3r/hyperclient/releases) <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28px" alt="stark"></p>
 
 
 Modded PVP-Ready client made by the HYPR Studio team.
@@ -11,14 +11,14 @@ Like the project? Leave a ⭐ star on the repository!
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/xbl4z3rr/hyperclient/releases)
+You can download from [GitHub Releases](https://github.com/xbl4z3r/hyperclient/releases)
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/xbl4z3rr/hyperclient.svg?style=flat-square)](https://github.com/XBL4Z3R-69/HyperClient/releases/latest)
+[![](https://img.shields.io/github/release/xbl4z3r/hyperclient.svg?style=flat-square)](https://github.com/XBL4Z3R-69/HyperClient/releases/latest)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/release/xbl4z3rr/hyperclient/all.svg?style=flat-square)](https://github.com/XBL4Z3R-69/HyperClient/releases)
+[![](https://img.shields.io/github/release/xbl4z3r/hyperclient/all.svg?style=flat-square)](https://github.com/XBL4Z3R-69/HyperClient/releases)
 
 Our client can offer:
 
