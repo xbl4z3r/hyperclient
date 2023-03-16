@@ -4,7 +4,7 @@
 [<p align="center"><img src="https://img.shields.io/travis/xbl4z3r/hyperclient.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/xbl4z3rr/hyperclient) [<img src="https://img.shields.io/github/downloads/xbl4z3r/hyperclient/total.svg?style=for-the-badge" alt="downloads">](https://github.com/xbl4z3r/hyperclient/releases) <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28px" alt="stark"></p>
 
 
-Modded PVP-Ready client made by the HYPR Studio team.
+Modded PVP-Ready client made by xbl4z3r.
 
 Public GitHub repository for the one and only HyperClient.
 Like the project? Leave a ⭐ star on the repository!
