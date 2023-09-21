@@ -1,38 +1,32 @@
-# HyperClient
+# Hyper Client v3.0.0
 
 
-[<p align="center"><img src="https://img.shields.io/travis/xbl4z3r/hyperclient.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/xbl4z3rr/hyperclient) [<img src="https://img.shields.io/github/downloads/xbl4z3r/hyperclient/total.svg?style=for-the-badge" alt="downloads">](https://github.com/xbl4z3r/hyperclient/releases) <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28px" alt="stark"></p>
+[<p align="left"><img src="https://img.shields.io/travis/xbl4z3r/hyperclient.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/xbl4z3r/hyperclient) [<img src="https://img.shields.io/github/downloads/xbl4z3r/hyperclient/total.svg?style=for-the-badge" alt="downloads">](https://github.com/xbl4z3r/hyperclient/releases)
 
+## Hyper Client v3
+After years of hard work I am so excited to announce that Hyper Client 3.0 is coming early 2024! It's been a long journey, and I'm so happy to finally be able to share it with you all. I hope you enjoy it as much as I do. You can try the beta right now directly from the launcher. I'll be posting more updates as we get closer to the release date. Thank you all for your support and patience.
 
-Modded PVP-Ready client made by xbl4z3r.
+## About
+Hyper Client is a Minecraft client that aims to make Minecraft more enjoyable and easier to play. It does this by adding many useful features to Minecraft such as a fully customizable GUI, FPS improvements, and much more. Hyper Client is a free PvP client that is available for Windows, macOS, and Linux. It is built on top of [Fabric](https://fabricmc.net/), a lightweight modding toolchain for Minecraft.
 
-Public GitHub repository for the one and only HyperClient.
-Like the project? Leave a ⭐ star on the repository!
+## Features
+I have worked tirelessly to make this client as good as possible. I have added many features that I think you will enjoy. Here is a brief list of some of the features that Hyper Client has to offer:
+* Account Manager
+* Version Manager
+* Intuitive RAM limiter
+* Effortless Java Version Manager
+* FPS Boost and other performance improvements
+* Over 30 useful mods for PvP and more
+* Cosmetics such as capes, hats, and more
+* Fully Customizable
 
-## Downloads
+## Installing
+You can download the launcher from [The Hyper Client Website](https://hyperclient.xyz/hyperclient) or from [GitHub Releases](https://github.com/xbl4z3r/hyperclient/releases).<br>
+You can manage and launch different versions of Hyper Client from the launcher.<br>
+>Note: The GitHub Releases are not always up-to-date and may contain bugs and/or unfinished features.
 
-You can download from [GitHub Releases](https://github.com/xbl4z3r/hyperclient/releases)
+## Notice
+Like any other mod/modded client Hyper Client is not endorsed by any server and may be against their rules. Use at your own risk. I am not responsible for any bans or punishments that may occur while using Hyper Client.
 
-#### Latest Release
-
-[![](https://img.shields.io/github/release/xbl4z3r/hyperclient.svg?style=flat-square)](https://github.com/XBL4Z3R-69/HyperClient/releases/latest)
-
-#### Latest Pre-Release
-[![](https://img.shields.io/github/release/xbl4z3r/hyperclient/all.svg?style=flat-square)](https://github.com/XBL4Z3R-69/HyperClient/releases)
-
-Our client can offer:
-
-* Full account management
-* Full access over mods
-* Multiple PVP-Ready profiles for different versions
-* Over 30 useful mods for pvp
-* Drop-In mods in case you're not satisfied with the mods we offer
-* Easy to use RAM limiter
-* Easy JAVA installation
-
-Notes:
-
-> HyperClient isn't a hack!
-> This client doesn't give any kind of unfair advantage over other players, it just gives its users mods that can improve FPS and remove Mouse Delay and more!
-> Some of these mods may not be allowed on some servers and all of them are marked as **Use at your own risk**.
-> We are not responsible if you get banned on any server using this client.
+## Support
+Like the project? Leave a ⭐ star on the repository! It motivates me to work on this project and helps others find it. If you have any issues or questions feel free to open an issue or join the [Discord Server](https://discord.gg/2Y5WYQ2).
